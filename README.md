@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello I am a 15 year old aspiring web developer 
+I am in the 5th stage of high school. The languages
+I have learned during these last years in the computer
+technician are: HTML, CSS, JavaScript, Python and PHP.
+I have used a JavaScript framework called React,
+and also Python libraries such as Flask_MySQLdb,
+Notifypy among others and finally next year 
+I will do an internship in a very well known
+institute in my country.
+
